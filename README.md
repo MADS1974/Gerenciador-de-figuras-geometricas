@@ -43,7 +43,7 @@ Results (screen)
 ## 📚 Créditos
 
 Projeto acadêmico desenvolvido para a disciplina **Desenvolvimento para Android 1 – D2DM1**,   
-ministrada pelo professor **carlão (IFSP)**. 
+ministrada pelo professor **Carlão (IFSP)**. 
 
 
 ## 🙋‍♂️
@@ -51,5 +51,6 @@ ministrada pelo professor **carlão (IFSP)**.
 🔗 Conecte-se comigo
 
 [LinkedIn - Márcio Adriano](https://www.linkedin.com/in/mads1974/)
+
 
 
